@@ -1,0 +1,21 @@
+question_data = [
+                     {"type": "boolean", "difficulty": "easy", "category": "Entertainment: Film",
+                      "question": "George Lucas directed the entire original Star Wars trilogy.",
+                      "correct_answer": "False",
+                      "incorrect_answers": ["True"]},
+                     {"type": "boolean", "difficulty": "easy", "category": "Entertainment: Film",
+                      "question": "In Alfred Hitchcock&#039;s film &#039;Psycho&#039; it is said he used chocolate syrup to simulate the blood in the famous shower scene from ",
+                      "correct_answer": "True", "incorrect_answers": ["False"]},
+                     {"type": "boolean", "difficulty": "easy", "category": "Entertainment: Film",
+                      "question": "Ewan McGregor did not know the name of the second prequel film of Star Wars during and after filming.",
+                      "correct_answer": "True", "incorrect_answers": ["False"]},
+                     {"type": "boolean", "difficulty": "easy", "category": "Entertainment: Film",
+                      "question": "Brandon Routh plays the titular character in the movie &quot;John Wick&quot;.",
+                      "correct_answer": "False", "incorrect_answers": ["True"]},
+                     {"type": "boolean",
+                      "difficulty": "easy",
+                      "category": "Entertainment: Film",
+                      "question": "The film &quot;2001: A Space Odyssey&quot; was released on December 31st, 2000.",
+                      "correct_answer": "False",
+                      "incorrect_answers": ["True"]}
+                ]
